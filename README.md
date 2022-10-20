@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetuAlatas&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdiBalta&show_icons=true&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetuAlatas&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdiBalta&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/MehmetuAlatas)
+![Profile views](https://gpvc.arturio.dev/ErdiBalta)
 
 <hr/>
 
